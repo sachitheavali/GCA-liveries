@@ -3,7 +3,7 @@
   ![Grand Caribbean Virtual Airlines](./banner.png)
 -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Grand+Caribbean+Virtual+Airlines" alt="Grand Caribbean Virtual Airlines Banner" width="100%">
+  <img src="GCA_LOGO.jpg" alt="Grand Caribbean Virtual Airlines Banner" width="100%">
 </p>
 
 # Grand Caribbean Virtual Airlines
