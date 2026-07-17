@@ -8,7 +8,7 @@
 
 <h1 align="center">Grand Caribbean Virtual Airlines</h1>
 
-### Boeing 737 MAX 8 (B38M) — iFly SP1 Livery Pack
+### Boeing 737 MAX 8 (B38M) — iFly Livery Pack
 
 **Version:** 1.2
 
@@ -36,7 +36,7 @@
 - Copy the **contents** of the `Configs` folder — *do not copy the folder itself*.
 - Paste into your **work** folder:
   ```
-  C:\Users\{XXXXXX}\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalState\packages\ifly-aircraft-737max8\work
+  C:\Users\{Youruserprofile}\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalState\packages\ifly-aircraft-737max8\work
   ```
 
 ### 3. Pictures
@@ -45,7 +45,7 @@
 ### 4. SimBrief Profiles
 1. Copy the provided link and paste it into your browser.
 2. Ensure you're signed into your SimBrief profile.
-3. Click **"Save Airframe."**
+3. Click **"Save Airframe."** at the top left of the page.
 
 ---
 
