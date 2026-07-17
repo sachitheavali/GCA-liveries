@@ -49,4 +49,4 @@
 
 ---
 
-<p align="center"><i>Grand Caribbean Virtual Airlines — Fly the Caribbean skies. </i></p>
+<p align="center"><i>Grand Caribbean Virtual Airlines — Connecting The Caribbean. </i></p>
