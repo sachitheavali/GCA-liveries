@@ -3,10 +3,10 @@
   ![Grand Caribbean Virtual Airlines](./banner.png)
 -->
 <p align="center">
-  <img src="GCA_Banner.jpg" alt="Grand Caribbean Virtual Airlines Banner" width="75%">
+  <img src="GCA_Banner.jpg" alt="Grand Caribbean Virtual Airlines Banner" width="75%" style="border-radius: 20px;">
 </p>
 
-# Grand Caribbean Virtual Airlines
+<h1 align="center">Grand Caribbean Virtual Airlines</h1>
 
 ### Boeing 737 MAX 8 (B38M) — iFly SP1 Livery Pack
 
