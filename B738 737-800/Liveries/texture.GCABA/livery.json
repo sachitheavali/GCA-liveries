@@ -1,0 +1,11 @@
+{
+  "rev": 2,
+  "productId": 191,
+  "productPackage": "pmdg-aircraft-738",
+  "title": "PMDG 737-800 - GC-ABA",
+  "airline": "GCA",
+  "airlineIcao": "GCA",
+  "registration": "GC-ABA",
+  "liveryId": "pmdg_737800_gc_abb",
+  "version": 1000
+}
