@@ -3,14 +3,14 @@
   ![Grand Caribbean Virtual Airlines](./banner.png)
 -->
 <p align="center">
-  <img src="GCA_Bannerv2.jpg" alt="Grand Caribbean Virtual Airlines Banner" width="75%">
+  <img src="GCA_Bannerv2.jpg" alt="Grand Caribbean Virtual Airlines Banner" width="75%" style="border-radius: 20px;">
 </p>
 
 <h1 align="center">Grand Caribbean Virtual Airlines</h1>
 
 ### Boeing 737 MAX 8 (B38M) — iFly Livery Pack
 
-**Version:** 1.2
+**Version:** 1.3
 
 > **Compatibility Notice:** This livery pack is exclusively for the **iFly 737 MAX 8 (178 Seats)** and **PMDG 737-800** on **MSFS 2020**. It will not work with other variants.
 
@@ -46,8 +46,14 @@
 ## Installation
 
 ### 1. Liveries
-- Take your livery(s) of choice and paste them into your **Community** folder.
+- For the **iFly 737MAX8**
+  - Take your livery(s) of choice and paste them into your **Community** folder.
 
+- For the **PMDG 737-800**
+  - Taky your livery(s) of choice and paste them into the liveries folder in community.
+    ```
+    C:\Users{Youruserprofile}\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages\Community\pmdg-aircraft-738-liveries\SimObjects\Airplanes
+    ```
 ### 2. Configs
 - For the ifly 737-MAX8
   - Copy the **contents** of the `Configs` folder — *do not copy the folder itself*.
