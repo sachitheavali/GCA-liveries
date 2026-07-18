@@ -10,7 +10,7 @@
 
 ### Boeing 737 MAX 8 (B38M) — iFly Livery Pack
 
-**Version:** 1.3
+**Version:** 1.3.2
 
 > **Compatibility Notice:** This livery pack is exclusively for the **iFly 737 MAX 8 (178 Seats)** and **PMDG 737-800** on **MSFS 2020**. It will not work with other variants.
 
