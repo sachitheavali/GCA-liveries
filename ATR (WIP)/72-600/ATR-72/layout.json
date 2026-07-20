@@ -1,0 +1,124 @@
+{
+  "content": [
+    {
+      "path": "MSFSLayoutGenerator.exe",
+      "size": 364544,
+      "date": 132972422225234341
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/aircraft.cfg",
+      "size": 1052,
+      "date": 134050819199555344
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/panel.C-GYYR/panel.cfg",
+      "size": 184,
+      "date": 134038838222847383
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_ENGINE_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 134049452640384641
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133269583380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_FUSELAGE_72_1_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 134049493975932823
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_FUSELAGE_72_1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133269583380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_FUSELAGE_72_2_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 134049494154169784
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_FUSELAGE_72_2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133269583380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_LIVERY_ATR_ALBD.PNG.DDS",
+      "size": 384,
+      "date": 134038838224450040
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_LIVERY_ATR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134038838224471994
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_TAIL_72_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 134049451511715388
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_TAIL_72_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133269583400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_UNDERCARRIAGE_FRONT_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 134049500966612232
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_UNDERCARRIAGE_FRONT_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133269583400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_WINGS_MIDDLE_72_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 134049500100697349
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_WINGS_MIDDLE_72_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133270338600000000
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_WING_LEFT_72_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 134049500762259744
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_WING_LEFT_72_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133269583400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_WING_RIGHT_72_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 134049500532221094
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/ATR_AIRFRAME_WING_RIGHT_72_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133269583400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/texture.CFG",
+      "size": 421,
+      "date": 134049479764556374
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/thumbnail.JPG",
+      "size": 399880,
+      "date": 134049489896031214
+    },
+    {
+      "path": "SimObjects/Airplanes/ATR-72-600 PAL Airlines/texture.C-GYYR/thumbnail_small.JPG",
+      "size": 399880,
+      "date": 134049489955194859
+    }
+  ]
+}

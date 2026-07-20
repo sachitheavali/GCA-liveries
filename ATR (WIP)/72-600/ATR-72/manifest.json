@@ -1,0 +1,16 @@
+{
+  "dependencies": [],
+  "content_type": "LIVERY",
+  "title": "ATR 72-600 Pal Airlines",
+  "manufacturer": "ATR",
+  "creator": "",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.31.22",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000135390617"
+}
