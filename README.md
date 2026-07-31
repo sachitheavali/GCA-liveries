@@ -12,7 +12,8 @@
 
 **Version:** 1.4
 
-> **Compatibility Notice:** This livery pack is exclusively for the **iFly 737 MAX 8 (178 Seats)** and **PMDG 737-800** on **MSFS 2020**. It will not work with other variants.
+> **Legal Notice:** The Installation directory is directed within the PMDG folder since I don't know how to make .PTP files. Grand Caribbean does NOT support or encourage piracy. Doing so is at the user's own risk.
+
 
 ---
 
