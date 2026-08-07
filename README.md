@@ -10,7 +10,7 @@
 
 ### Boeing 737 MAX 8 (B38M) — iFly Livery Pack
 
-**Version:** 1.4.1
+**Version:** 1.5
 
 > **Legal Notice:** The Installation directory is directed within the PMDG folder since I don't know how to make .PTP files. Grand Caribbean does NOT support or encourage piracy. Doing so is at the user's own risk.
 

@@ -1,0 +1,339 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/aircraft.cfg",
+      "size": 971,
+      "date": 134305867857685744
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX8_FUSELAGE1.PNG.KTX2",
+      "size": 22369796,
+      "date": 134305867857910416
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX8_FUSELAGE1.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867857925488
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX8_FUSELAGE2.PNG.KTX2",
+      "size": 16777364,
+      "date": 134305867858085760
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX8_FUSELAGE2.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867858100816
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX8_FUSELAGE3.PNG.KTX2",
+      "size": 22369796,
+      "date": 134305867858320640
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX8_FUSELAGE3.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867858335648
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX8_FUSELAGEDECAL01.PNG.KTX2",
+      "size": 65664,
+      "date": 134305867858400752
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX8_FUSELAGEDECAL01.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867858410944
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX8_FUSELAGEDECAL01_M.PNG.KTX2",
+      "size": 65664,
+      "date": 134305867858460992
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX8_FUSELAGEDECAL01_M.PNG.KTX2.json",
+      "size": 166,
+      "date": 134305867858476016
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABIN01.PNG.KTX2",
+      "size": 8388736,
+      "date": 134305867858581296
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABIN01.PNG.KTX2.json",
+      "size": 127,
+      "date": 134305867858591312
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABIN01_L.PNG.KTX2",
+      "size": 8388736,
+      "date": 134305867858762208
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABIN01_L.PNG.KTX2.json",
+      "size": 127,
+      "date": 134305867858777232
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABIN01FLOOR_D.PNG.KTX2",
+      "size": 524416,
+      "date": 134305867858651664
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABIN01FLOOR_D.PNG.KTX2.json",
+      "size": 134,
+      "date": 134305867858661648
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABIN03.PNG.KTX2",
+      "size": 4194432,
+      "date": 134305867858847520
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABIN03.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867858857536
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABIN05.PNG.KTX2",
+      "size": 2097280,
+      "date": 134305867858927616
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABIN05.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867858942624
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABINSEAT01.PNG.KTX2",
+      "size": 4194432,
+      "date": 134305867859012864
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABINSEAT01.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867859032912
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABINSEAT01_M.PNG.KTX2",
+      "size": 2097280,
+      "date": 134305867859092976
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CABINSEAT01_M.PNG.KTX2.json",
+      "size": 166,
+      "date": 134305867859103008
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CUSTOM02.PNG.KTX2",
+      "size": 4194432,
+      "date": 134305867859188304
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_CUSTOM02.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867859193328
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_ENGINE_TEXT_01.PNG.KTX2",
+      "size": 4194432,
+      "date": 134305867859859008
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_ENGINE_TEXT_01.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867859874000
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_ENGINEBLADE.PNG.KTX2",
+      "size": 1048704,
+      "date": 134305867859263408
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_ENGINEBLADE.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867859278400
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_ENGINEL.PNG.KTX2",
+      "size": 22369796,
+      "date": 134305867859514064
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_ENGINEL.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867859530416
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_ENGINER.PNG.KTX2",
+      "size": 22369796,
+      "date": 134305867859760896
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_ENGINER.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867859780880
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_FUSELAGE_TEXT_01.PNG.KTX2",
+      "size": 4194452,
+      "date": 134305867859954208
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_FUSELAGE_TEXT_01.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867859964176
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_PITOTPROBE.PNG.KTX2",
+      "size": 4194432,
+      "date": 134305867860044320
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_PITOTPROBE.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867860089344
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_PITOTPROBE_M.PNG.KTX2",
+      "size": 1048704,
+      "date": 134305867860154464
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_PITOTPROBE_M.PNG.KTX2.json",
+      "size": 166,
+      "date": 134305867860164464
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_TAIL.PNG.KTX2",
+      "size": 22369796,
+      "date": 134305867860379680
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_TAIL.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867860389696
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_TAIL_M.PNG.KTX2",
+      "size": 8388736,
+      "date": 134305867860500064
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_TAIL_M.PNG.KTX2.json",
+      "size": 166,
+      "date": 134305867860520432
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_TAIL_N.PNG.KTX2",
+      "size": 16777344,
+      "date": 134305867860675392
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_TAIL_N.PNG.KTX2.json",
+      "size": 160,
+      "date": 134305867860685392
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_TIREC.PNG.KTX2",
+      "size": 1048704,
+      "date": 134305867860740656
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_TIREC.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867860755680
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_TIRELR.PNG.KTX2",
+      "size": 4194432,
+      "date": 134305867860826288
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_TIRELR.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867860836320
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WINDOWS.PNG.KTX2",
+      "size": 2097280,
+      "date": 134305867860891280
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WINDOWS.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867860901312
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WINDSHIELD_UV.PNG.KTX2",
+      "size": 1048704,
+      "date": 134305867860971664
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WINDSHIELD_UV.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867860981648
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WING01.PNG.KTX2",
+      "size": 8388736,
+      "date": 134305867861077072
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WING01.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867861087088
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WINGLETL.PNG.KTX2",
+      "size": 5592580,
+      "date": 134305867861167168
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WINGLETL.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867861182176
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WINGLETR.PNG.KTX2",
+      "size": 5592580,
+      "date": 134305867861272240
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WINGLETR.PNG.KTX2.json",
+      "size": 102,
+      "date": 134305867861287248
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WINGTEXT01.PNG.KTX2",
+      "size": 4194432,
+      "date": 134305867861360352
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/IFLY737MAX_WINGTEXT01.PNG.KTX2.json",
+      "size": 119,
+      "date": 134305867861365392
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/texture.CFG",
+      "size": 138,
+      "date": 134305867861380464
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/thumbnail.png",
+      "size": 682975,
+      "date": 134305867863337232
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/thumbnail_button.png",
+      "size": 164916,
+      "date": 134305867865114192
+    },
+    {
+      "path": "SimObjects/Airplanes/ifly-aircraft-737max8-livery-GC-AAG/texture.ORN/thumbnail_side.png",
+      "size": 682975,
+      "date": 134305867864953840
+    }
+  ]
+}
