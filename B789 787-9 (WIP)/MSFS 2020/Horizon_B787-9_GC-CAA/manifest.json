@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "fs-base-propdefs",
+      "package_version": "0.0.1"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "Horizon B787-9 GC-CAA",
+  "manufacturer": "Boeing",
+  "creator": "Tapzi",
+  "package_version": "1.0.4",
+  "minimum_game_version": "1.27.5",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000259175959"
+}
