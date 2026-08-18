@@ -1,0 +1,19 @@
+If the liveries listed above do NOT work, please install the converter from below: 
+
+      https://flightsim.to/addon/101791/ptp-installer-for-pmdg-737-800-msfs-2024-only 
+
+Download the latest MSFS 2024 SDK from the developer mode within the game, tutorial below (start from 4:30) 
+
+      https://youtu.be/N_3J93_sKIY?si=0HMrC5O5Wuuo72O4 
+
+After giving the converter the path to your SDK, give it your installation path, being your 2024 community folder. It will automatically create a folder. 
+
+Next, give the converter the source file, which is in the "Liveries 2020" folder within the following path: 
+
+      \GCA-Liveries\B738 737-800\Liveries 2020 
+
+Finally just click convert and install! 
+
+It will open msfs and close it, this is how the converter reads the SDK. 
+
+Enjoy!
