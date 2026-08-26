@@ -10,7 +10,7 @@
 
 ### Grand Caribbean Airways Fleet Pack 
 
-**Version:** 1.6
+**Version:** 1.7
 
 > **Legal Notice:** The Installation directory is directed within the PMDG folder since I don't know how to make .PTP files. Grand Caribbean does NOT support or encourage piracy. Doing so is at the user's own risk.
 
