@@ -8,11 +8,13 @@
 
 <h1 align="center">Grand Caribbean Virtual Airlines</h1>
 
-### Boeing 737 MAX 8 (B38M) — iFly Livery Pack
+### Grand Caribbean Airways Fleet Pack 
 
-**Version:** 1.4.1
+**Version:** 1.7
 
 > **Legal Notice:** The Installation directory is directed within the PMDG folder since I don't know how to make .PTP files. Grand Caribbean does NOT support or encourage piracy. Doing so is at the user's own risk.
+
+> **Compatability Notice:** B38M liveries are only for the iFly 737-8. B789 Liveries are only for the Horizon Simulations 787-9 which requires the Asobo 787-10 to work. The 737-800 liveries are only for the PMDG 737-800. 
 
 
 ---
@@ -42,13 +44,23 @@
 | `Pictures` | Photos for use with tracking software |
 | `Simbrief Profiles` | Link to the SimBrief airframe profile |
 
+## B789 787-9 
+
+| Folder | Description|
+|---|---|
+| `2020` | All livery texture files MSFS 2020 |
+| `2024` | All livery texture files MSFS 2024 |
+| `Pictures` | Photos for use with tracking software |
+| `Simbrief Profiles` | Link to the SimBrief airframe profile |
+
 ---
 
 ## Installation
 
 ### 1. Liveries
-- For the **iFly 737MAX8**
+- For the **iFly 737MAX8 AND HORIZION 789**
   - Take your livery(s) of choice and paste them into your **Community** folder.
+  
 
 - For the **PMDG 737-800**
   - Taky your livery(s) of choice and paste them into the liveries folder in community.

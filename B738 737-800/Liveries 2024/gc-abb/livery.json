@@ -1,0 +1,13 @@
+{
+  "rev": 2,
+  "productId": 212,
+  "title": "GC-ABB",
+  "airline": "KLJ",
+  "airlineIcao": "KLJ",
+  "registration": "GC-ABB",
+  "liveryId": "gc-abb",
+  "version": 1002,
+  "tags": [
+    "BW"
+  ]
+}
