@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo>
+	<LODS>
+		<!-- Highest LOD -->
+		<!-- minimum display size in % (should be bounding sphere vertical screen size, sphere will often be slightly larger than you expect) -->
+		<!-- default minSize is 0 -->
+		<LOD minSize="0" ModelFile="..\..\E175\model\E175-Exterior-LOD00.gltf">
+			<MergeModel>E175_WINGLET_G_LOD00.gltf</MergeModel>
+		</LOD>
+	</LODS>
+	<Behaviors>
+		<Include ModelBehaviorFile="FSS\E1XX_Exterior.xml" />
+		<Component ID="E175_EXTERIOR">
+			<UseTemplate Name="FSS_E1XX_EXTERIOR"></UseTemplate>
+		</Component>
+	</Behaviors>
+</ModelInfo>

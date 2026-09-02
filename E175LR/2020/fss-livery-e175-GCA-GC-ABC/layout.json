@@ -1,0 +1,104 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/aircraft.cfg",
+      "size": 945,
+      "date": 134326212427481449
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/model.GC-ABC/E175_EXTERIOR.xml",
+      "size": 617,
+      "date": 133415102833605077
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/model.GC-ABC/E175_WINGLET_G_LOD00.bin",
+      "size": 534172,
+      "date": 133227783660000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/model.GC-ABC/E175_WINGLET_G_LOD00.gltf",
+      "size": 90828,
+      "date": 133272988830000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/model.GC-ABC/model.CFG",
+      "size": 694,
+      "date": 133178569684115231
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/FUSELAGE_ALBD.PNG.DDS",
+      "size": 89478660,
+      "date": 134326038760785180
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/Fuselage_ALBD.png.DDS.FLAGS",
+      "size": 20,
+      "date": 133178374060000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 127,
+      "date": 133178374060000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/FUSELAGE_COMP.PNG.DDS",
+      "size": 89478660,
+      "date": 133273031730000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/Fuselage_COMP.png.DDS.FLAGS",
+      "size": 20,
+      "date": 133178374040000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/FUSELAGE_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133178374040000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/texture.CFG",
+      "size": 264,
+      "date": 133178556210000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/thumbnail.JPG",
+      "size": 261033,
+      "date": 133274285240000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/thumbnail_small.JPG",
+      "size": 60120,
+      "date": 133273053570000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/WINGS_ALBD.PNG.DDS",
+      "size": 89478660,
+      "date": 134326039479532852
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/wings_ALBD.png.DDS.FLAGS",
+      "size": 20,
+      "date": 133178374060000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/WINGS_ALBD.PNG.DDS.json",
+      "size": 127,
+      "date": 133178374060000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/WINGS_COMP.PNG.DDS",
+      "size": 89478660,
+      "date": 133273031870000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/wings_COMP.png.DDS.FLAGS",
+      "size": 20,
+      "date": 133178374050000000
+    },
+    {
+      "path": "SimObjects/AirPlanes/E175-GC-ABC/texture.GC-ABC/WINGS_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 133178374050000000
+    }
+  ]
+}
