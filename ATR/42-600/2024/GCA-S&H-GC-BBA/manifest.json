@@ -1,0 +1,19 @@
+{
+  "dependencies": [],
+  "content_type": "LIVERY",
+  "title": "ATR 42-600 GC-BBA",
+  "manufacturer": "ATR",
+  "creator": "Tulermangiu",
+  "package_version": "1.0",
+  "minimum_game_version": "1.4.20",
+  "minimum_compatibility_version": "4.20.0.73",
+  "builder": "Microsoft Flight Simulator 2024",
+  "package_order_hint": "",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000656175948"
+}

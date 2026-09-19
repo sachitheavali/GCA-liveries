@@ -1,0 +1,324 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/livery.cfg",
+      "size": 216,
+      "date": 134343196711519024
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_DETAILS_01_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196711631248
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_DETAILS_01_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196711641248
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_ENGINE_LEFT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196711766336
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_ENGINE_LEFT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196711776368
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_ENGINE_RIGHT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196711906656
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_ENGINE_RIGHT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196711916720
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_FUSELAGE_ROOT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196712036960
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_FUSELAGE_ROOT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196712046928
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_LOD4_ALBD.PNG.KTX2",
+      "size": 5592580,
+      "date": 134343196712076928
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_LOD4_ALBD.PNG.KTX2.json",
+      "size": 144,
+      "date": 134343196712086976
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_MIDDLE_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196712207456
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_MIDDLE_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196712217488
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_NOSE_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196712337936
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_NOSE_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196712347920
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_REAR_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196712469136
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_REAR_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196712474160
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_SCREWS_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196712609504
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_SCREWS_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196712619552
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_TAIL_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196712739408
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_TAIL_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196712749424
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_WING_LEFT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196712874832
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_WING_LEFT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196712884896
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_WING_RIGHT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196713010672
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_WING_RIGHT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196713015728
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_WING_ROOT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196713135952
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_42_600_AIRFRAME_WING_ROOT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196713145968
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_72_600_AIRFRAME_ENGINE_LEFT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196713271040
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_72_600_AIRFRAME_ENGINE_LEFT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196713276080
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_72_600_AIRFRAME_ENGINE_RIGHT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196713391232
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_72_600_AIRFRAME_ENGINE_RIGHT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196713401216
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_72_600_AIRFRAME_WING_LEFT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196713517344
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_72_600_AIRFRAME_WING_LEFT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196713532384
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_72_600_AIRFRAME_WING_RIGHT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196713647664
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_72_600_AIRFRAME_WING_RIGHT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196713662720
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_72_600_AIRFRAME_WING_ROOT_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196713778096
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/ATR_72_600_AIRFRAME_WING_ROOT_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196713788112
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_BODY_B_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196713911072
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_BODY_B_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196713921088
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_BODY_B_COMP.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196714041216
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_BODY_B_COMP.PNG.KTX2.json",
+      "size": 191,
+      "date": 134343196714046256
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_BODY_F_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196714166800
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_BODY_F_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196714176864
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_BODY_F_COMP.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196714292016
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_BODY_F_COMP.PNG.KTX2.json",
+      "size": 191,
+      "date": 134343196714302000
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_ENGINES_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196714422544
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_ENGINES_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196714432544
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_ENGINES_COMP.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196714547520
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_ENGINES_COMP.PNG.KTX2.json",
+      "size": 191,
+      "date": 134343196714552512
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_TAIL_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196714677888
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_TAIL_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196714687920
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_TAIL_COMP.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196714813488
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_TAIL_COMP.PNG.KTX2.json",
+      "size": 191,
+      "date": 134343196714823472
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_WING_L_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196714973872
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_WING_L_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196714988944
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_WING_L_COMP.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196715122464
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_WING_L_COMP.PNG.KTX2.json",
+      "size": 191,
+      "date": 134343196715134272
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_WING_R_ALBD.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196715274432
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_WING_R_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134343196715284464
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_WING_R_COMP.PNG.KTX2",
+      "size": 22369796,
+      "date": 134343196715427776
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/texture/C680_EXTERIOR_WING_R_COMP.PNG.KTX2.json",
+      "size": 191,
+      "date": 134343196715432816
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/thumbnail/thumbnail.png",
+      "size": 618275,
+      "date": 134343196716031072
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/thumbnail/thumbnail_button.png",
+      "size": 618307,
+      "date": 134343196717178016
+    },
+    {
+      "path": "SimObjects/Airplanes/microsoft_atr/liveries/GC-BBA/GC-BBA/thumbnail/thumbnail_side.png",
+      "size": 618275,
+      "date": 134343196716576992
+    }
+  ]
+}
