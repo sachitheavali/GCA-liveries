@@ -1,0 +1,69 @@
+{
+  "content": [
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/aircraft.cfg",
+      "size": 851,
+      "date": 134358023493781931
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/model.white/model.CFG",
+      "size": 698,
+      "date": 134358023493837108
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/panel.white/panel.cfg",
+      "size": 951,
+      "date": 134358023493892181
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/texture.white/Fuselage_ALBD.png.DDS.FLAGS",
+      "size": 20,
+      "date": 134358023494047360
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/texture.white/FUSELAGE_ALBD.png.KTX2",
+      "size": 22369796,
+      "date": 134358023494007419
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/texture.white/FUSELAGE_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134358023494092441
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/texture.white/LIVERY-AA.PNG.KTX2",
+      "size": 2072768,
+      "date": 134358023494112447
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/texture.white/LIVERY-AA.PNG.KTX2.json",
+      "size": 119,
+      "date": 134358023494162568
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/texture.white/texture.CFG",
+      "size": 290,
+      "date": 134358023494197574
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/texture.white/thumbnail.png",
+      "size": 1018109,
+      "date": 134358023495458349
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/texture.white/wings_ALBD.png.DDS.FLAGS",
+      "size": 20,
+      "date": 134358023496114078
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/texture.white/WINGS_ALBD.png.KTX2",
+      "size": 89478612,
+      "date": 134358023496099070
+    },
+    {
+      "path": "fss-e175-GC-ABC/SimObjects/Airplanes/GC-ABC/texture.white/WINGS_ALBD.PNG.KTX2.json",
+      "size": 127,
+      "date": 134358023496119087
+    }
+  ]
+}
