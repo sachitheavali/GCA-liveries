@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "FSS E175 GC-ABD",
+  "manufacturer": "Embraer",
+  "creator": "",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.29.30",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
