@@ -1,0 +1,64 @@
+{
+  "content": [
+    {
+      "path": "MSFSLayoutGenerator.exe",
+      "size": 364544,
+      "date": 133638607420000000
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/aircraft.cfg",
+      "size": 846,
+      "date": 134361716845616695
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/model.GC-ABF/model.CFG",
+      "size": 713,
+      "date": 133515774780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/panel.GC-ABF/panel.cfg",
+      "size": 951,
+      "date": 133515774780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/texture.GC-ABF/FUSELAGE_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 134361723448900834
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/texture.GC-ABF/FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 127,
+      "date": 133515774780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/texture.GC-ABF/LIVERY-AA.PNG.DDS",
+      "size": 2072768,
+      "date": 133515774780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/texture.GC-ABF/LIVERY-AA.PNG.DDS.json",
+      "size": 119,
+      "date": 133515774780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/texture.GC-ABF/texture.CFG",
+      "size": 300,
+      "date": 133515774780000000
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/texture.GC-ABF/thumbnail.JPG",
+      "size": 515967,
+      "date": 134287366151168928
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/texture.GC-ABF/WINGS_ALBD.PNG.DDS",
+      "size": 22369796,
+      "date": 134360351209160620
+    },
+    {
+      "path": "SimObjects/Airplanes/GC-ABF/texture.GC-ABF/WINGS_ALBD.PNG.DDS.json",
+      "size": 127,
+      "date": 133515774780000000
+    }
+  ]
+}
